@@ -1,0 +1,15 @@
+name: Acme
+description: 'Simple Bootswatch Theme'
+author: 'Brad Traversy'
+homepage: ''
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site Name
+      comment: The Global Website Name
+      default: Acme
+    site_description:
+      label: Site description
+      comment: The Global Website Description
+      default: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non omnis ab nam iusto, voluptate tenetur aliquid esse alias modi illum aut consectetur sapiente qui saepe adipisci sint veritatis minus? Accusamus.
